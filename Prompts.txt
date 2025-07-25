@@ -1,0 +1,12 @@
+Prompt 1:
+
+Based on the type of competitions we get on Kaggle, I am looking to create a base framework that can help in accomplishing the following tasks:
+
+1. Should be designd in Object Oriented Programming style
+2. Should have a reader class that can read different type of data formats like tabular, text, image etc.
+3. Should have a basic data cleaning class that supports different formats (one child class per data format)
+4. Should have one feature engineering class that can work with different type of datasets.
+5. Should have a versatile model training class that has the capability where different algorithms can be plugged in and used.
+6. Should have an evaluation and results submission class.
+
+You can provide your suggestions as well and we can collaborate, discuss and build the framework together.
